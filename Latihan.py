@@ -80,11 +80,11 @@ class KaryawanKontrak(Karyawan):
 
 # 4. MAIN PROGRAM
 karyawan1 = KaryawanTetap(
-    "Andi Saputra", "K001", 5000000, 1000000
+    "Nurul Aisyah Z", "K001", 5000000, 1000000
 )
 
 karyawan2 = KaryawanKontrak(
-    "Budi Santoso", "K002", 3500000, 10, 50000
+    "Dewi Andira", "K002", 3500000, 10, 50000
 )
 
 # Menyimpan objek ke dalam list
